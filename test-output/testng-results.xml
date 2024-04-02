@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-04-02T03:23:05 EET" name="Default suite" finished-at="2024-04-02T03:23:08 EET" duration-ms="2539">
+    <groups>
+    </groups>
+    <test started-at="2024-04-02T03:23:05 EET" name="Default test" finished-at="2024-04-02T03:23:08 EET" duration-ms="2539">
+      <class name="HomePage.HomePageTestCases">
+        <test-method is-config="true" signature="MySetup()[pri:0, instance:HomePage.HomePageTestCases@4c550889]" started-at="2024-04-02T03:23:05 EET" name="MySetup" finished-at="2024-04-02T03:23:08 EET" duration-ms="2416" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- MySetup -->
+        <test-method signature="CheckDefaultcuranccy()[pri:0, instance:HomePage.HomePageTestCases@4c550889]" started-at="2024-04-02T03:23:08 EET" name="CheckDefaultcuranccy" finished-at="2024-04-02T03:23:08 EET" duration-ms="37" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CheckDefaultcuranccy -->
+        <test-method signature="CheckTheDefaultLanguageIsEnglish()[pri:0, instance:HomePage.HomePageTestCases@4c550889]" started-at="2024-04-02T03:23:08 EET" name="CheckTheDefaultLanguageIsEnglish" finished-at="2024-04-02T03:23:08 EET" duration-ms="40" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CheckTheDefaultLanguageIsEnglish -->
+        <test-method signature="Checknumbercorrcte()[pri:0, instance:HomePage.HomePageTestCases@4c550889]" started-at="2024-04-02T03:23:08 EET" name="Checknumbercorrcte" finished-at="2024-04-02T03:23:08 EET" duration-ms="22" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Checknumbercorrcte -->
+      </class> <!-- HomePage.HomePageTestCases -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
